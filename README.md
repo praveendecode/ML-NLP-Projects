@@ -37,7 +37,7 @@
 
 ## Business Card Data Extract  : [View Project](https://github.com/praveendecode/BizCardX)
 
-## TextWiz                       : [View Project](https://github.com/praveendecode/Textwiz)
+## Language AI                       : [View Project](https://github.com/praveendecode/Textwiz)
  
 ## Query Genie                 : [View Project](https://github.com/praveendecode/QueryGenie)
  
