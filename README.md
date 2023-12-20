@@ -33,6 +33,7 @@
 
 ![image](https://github.com/praveendecode/Textwiz/assets/95226524/916abc3d-f61c-4a3c-a04c-a6ab7c3db7ef)
 
+## Product Sentiment Analysis  : [view](https://github.com/praveendecode/Product_Sentiment_Analysis)
 
 ## Business Card Data Extract  : [View Project](https://github.com/praveendecode/BizCardX)
 
