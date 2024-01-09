@@ -3,6 +3,7 @@
 ![image](https://github.com/praveendecode/Docker_ML_NLP_Projects/assets/95226524/f04da991-a735-4114-aa3c-ec60798b7fe4)
 
 
+## Rental Property Prices          : [View Project](https://github.com/praveendecode/Smart-Predictive-Modeling-for-Rental-Property-Prices)
 
 ## US Home Price Index             : [View Project](https://github.com/praveendecode/US_HPI_Prediction)
  
